@@ -74,3 +74,24 @@ hr{
     color: rgb(106, 96, 96);
     margin-bottom: 40px;
 }
+.part-6{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 150px;
+}
+.part-06{
+    border: 1px solid wheat;
+    margin-left: 2%;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+#p1{
+    background-color: antiquewhite;
+}
+#p2{
+    background-color: rgb(204, 230, 235);
+}
+#p3{
+    background-color: rgb(255, 252, 215);
+}
