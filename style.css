@@ -58,3 +58,14 @@ span{
     padding: 20px 30px;
     margin-left: 3%;
 }
+.part-04{
+    text-align: center;
+    color: gray;
+    margin-bottom: 150px;
+}
+hr{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: gray;
+}
