@@ -36,7 +36,7 @@ span{
 }
 .part-02{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     color: rgb(106, 96, 96);
 }
 .part-03{
@@ -94,4 +94,25 @@ hr{
 }
 #p3{
     background-color: rgb(255, 252, 215);
+}
+.part-07{
+    width: 27%;
+    border: 1px solid wheat;
+    box-shadow: 10px 10px 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+    padding: 10px 10px;
+    margin-bottom: 150px;
+    border-radius: 15px;
+}
+.imgs{
+    width: 400px;
+}
+.button-2{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 157px;
+    color: white;
+    font-weight: 600;
 }
