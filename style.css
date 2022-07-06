@@ -116,3 +116,10 @@ hr{
     color: white;
     font-weight: 600;
 }
+.part-9{
+    text-align: center;
+    background-color: black;
+    color: gray;
+    height: 200px;
+    padding: 20px 30px;
+}
