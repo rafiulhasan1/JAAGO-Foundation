@@ -39,3 +39,22 @@ span{
     margin-bottom: 50px;
     color: rgb(106, 96, 96);
 }
+.part-03{
+    width: 15%;
+    border: 1px solid wheat;
+    padding: 20px 30px;
+    margin-left: 3%;
+    background-color: rgb(243, 237, 238);
+}
+.part-3{
+    margin-right: 10%;
+    margin-left: 15%;
+    margin-bottom: 50px;
+}
+.part-003{
+    width: 15%;
+    border: 2px solid red;
+    background-color: rgb(255, 202, 202);
+    padding: 20px 30px;
+    margin-left: 3%;
+}
